@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5ac5290db4e10a41268cd81c9a837, type: 3}
+  m_Name: CharacterSkins
+  m_EditorClassIdentifier: 
+  _skins:
+  - Color: {r: 1, g: 0, b: 0.029075146, a: 1}
+    Price: 0
+  - Color: {r: 0.9245283, g: 0.8242257, b: 0.8242257, a: 1}
+    Price: 50
+  - Color: {r: 0, g: 0, b: 0, a: 1}
+    Price: 100
+  - Color: {r: 0.6175136, g: 1, b: 0.5707547, a: 0.5019608}
+    Price: 150
+  - Color: {r: 1, g: 0.58835566, b: 0, a: 1}
+    Price: 200

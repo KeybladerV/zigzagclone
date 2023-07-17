@@ -1,0 +1,23 @@
+{
+    "name": "PostMVCUnityAppTests",
+    "rootNamespace": "",
+    "references": [
+        "PostMVCUnityApp",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner",
+        "PostMVC"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,3 @@
+- commands branches depending on trigger branches
+- add tests for UnbindOnFailTrigger once behavior
+- implement single command binding and execution
